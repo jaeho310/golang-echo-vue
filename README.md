@@ -16,6 +16,6 @@ go run main.go
 
 ## web browser
 ```
-웹 브라우저로 가서 아래의 url로 접근합니다.
+웹 브라우저를 연 후 url로 접근합니다.
 localhost:8083
 ```
